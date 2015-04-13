@@ -1,0 +1,79 @@
+﻿15:44:52 Host identity created.
+15:45:48 Host identity created.
+15:45:57 Rake uses modified data file
+15:45:57 Player Rake connecting.
+15:45:57 Mission DayZ Epoch Chernarus read from directory.
+15:45:58 Player Rake connected (id=76561198026938257).
+15:46:02 Roles assigned.
+15:46:02 Reading mission ...
+15:46:12 Mission read.
+15:46:39 Game started.
+15:48:21 Player Rake disconnected.
+16:21:05 Host identity created.
+16:21:26 Rake uses modified data file
+16:21:26 Player Rake connecting.
+16:21:26 Mission DayZ Epoch Chernarus read from directory.
+16:21:28 Player Rake connected (id=76561198026938257).
+16:21:31 Roles assigned.
+16:21:31 Reading mission ...
+16:21:41 Mission read.
+16:22:47 Game started.
+16:24:55 Player Rake disconnected.
+16:25:59 Rake uses modified data file
+16:25:59 Player Rake connecting.
+16:26:00 Player Rake connected (id=76561198026938257).
+16:51:09 Player Rake disconnected.
+18:17:24 Host identity created.
+18:18:40 Rake uses modified data file
+18:18:40 Player Rake connecting.
+18:18:40 Mission DayZ Epoch Chernarus read from directory.
+18:18:42 Player Rake connected (id=76561198026938257).
+18:18:46 Roles assigned.
+18:18:46 Reading mission ...
+18:18:55 Mission read.
+18:19:55 Game started.
+18:29:54 Player Rake disconnected.
+19:26:31 Host identity created.
+19:26:38 Player Rake connecting.
+19:26:38 Mission DayZ Epoch Chernarus read from directory.
+19:26:39 Player Rake connected (id=76561198026938257).
+19:26:45 Roles assigned.
+19:26:45 Reading mission ...
+19:26:55 Mission read.
+19:27:42 Game started.
+20:12:31 Player Rake disconnected.
+20:17:15 Host identity created.
+20:20:04 Player Rake connecting.
+20:20:04 Mission DayZ Epoch Chernarus read from directory.
+20:20:05 Player Rake connected (id=76561198026938257).
+20:20:12 Roles assigned.
+20:20:12 Reading mission ...
+20:20:21 Mission read.
+20:21:11 Game started.
+21:38:16 Player Rake disconnected.
+22:09:01 Host identity created.
+22:09:21 Player Rake connecting.
+22:09:21 Mission DayZ Epoch Chernarus read from directory.
+22:09:23 Player Rake connected (id=76561198026938257).
+22:09:28 Roles assigned.
+22:09:28 Reading mission ...
+22:09:39 Mission read.
+22:10:04 Game started.
+ 5:06:48 Player Rake disconnected.
+ 5:07:40 Host identity created.
+ 5:08:15 Player Rake connecting.
+ 5:08:15 Mission DayZ Epoch Chernarus read from directory.
+ 5:08:17 Player Rake connected (id=76561198026938257).
+ 5:08:21 Roles assigned.
+ 5:08:21 Reading mission ...
+ 5:08:32 Mission read.
+ 5:08:59 Game started.
+ 5:15:35 Player Rake disconnected.
+ 6:05:30 Host identity created.
+ 6:05:48 Player Rake connecting.
+ 6:05:49 Mission DayZ Epoch Chernarus read from directory.
+ 6:05:50 Player Rake connected (id=76561198026938257).
+ 6:05:55 Roles assigned.
+ 6:05:55 Reading mission ...
+ 6:06:08 Mission read.
+ 6:06:37 Game started.
